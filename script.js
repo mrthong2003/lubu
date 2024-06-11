@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { question: '소설책', answer: 'sách tiểu thuyết', asked: false },
         { question: '수박', answer: 'dưa hấu', asked: false },
         { question: '전자상가', answer: 'khu bán hàng điện tử', asked: false },
-        { question: '주스', answer: 'nước hoa quả, sinh tố', asked: false },
+        { question: '주스', answer: 'sinh tố', asked: false },
         { question: '카메라', answer: 'máy ảnh', asked: false },
         { question: '티셔츠', answer: 'áo sơ mi', asked: false },
         { question: '필통', answer: 'hộp bút', asked: false },
