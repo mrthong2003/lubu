@@ -2,6 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url('https://media.istockphoto.com/id/997583736/vi/anh/k%E1%BA%BFt-c%E1%BA%A5u-gi%E1%BA%A5y-m%C3%A0u-v%C3%A0ng-nh%E1%BA%A1t-c%C5%A9.jpg?s=612x612&w=0&k=20&c=yRAaOiGDmuvmfdt8F4ZQ8M-m1Qn5LI5wwz-Gq0-Y5ss='); /* Đường dẫn đến file hình ảnh nền */
+    background-size: cover; /* Đảm bảo hình ảnh nền đầy đủ chiều cao và chiều rộng của trình duyệt */
+    background-position: center; /* Canh chỉnh hình ảnh nền ở giữa trang */
+   
 }
 
 .container {
@@ -62,12 +66,4 @@ h1 {
     cursor: pointer;
     margin-bottom: 10px;
 }
-#background-video {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    z-index: -1;
-    object-fit: cover;
-}
+
