@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', function() {
         { audioPath: 'Sound 02.mp3', answer: '2', asked: false },
         { audioPath: 'Sound 04.mp3', answer: '4', asked: false },
         { audioPath: 'Sound 05.mp3', answer: '5', asked: false },
-        { audioPath: 'Sound 06.mp3', answer: '6', asked: false }
-        { audioPath: 'Sound 07.mp3', answer: '7', asked: false }
+        { audioPath: 'Sound 06.mp3', answer: '6', asked: false },
+        { audioPath: 'Sound 07.mp3', answer: '7', asked: false },
     ];
 
     var writingQuestions = [
