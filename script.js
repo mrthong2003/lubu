@@ -43,7 +43,6 @@ document.addEventListener('DOMContentLoaded', function() {
         { audioPath: '33.mp3', answer: '저기 있습니다', asked: false },
         { audioPath: '34.mp3', answer: '저 필통이 예뻐요', asked: false },
         { audioPath: '35.mp3', answer: '공책 세 권하고 필통 한 개 주세요', asked: false },
-       
     ];
 
     var writingQuestions = [
@@ -87,7 +86,6 @@ document.addEventListener('DOMContentLoaded', function() {
         { question: 'hộp bút', answer: '필통', asked: false },
         { question: 'rẻ', answer: '싸다', asked: false },
         { question: 'đắt', answer: '비싸다', asked: false },
-        
         // Thêm các câu hỏi khác ở đây
     ];
 
