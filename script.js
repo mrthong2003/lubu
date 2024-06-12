@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var submitButton = document.getElementById('submit-answer');
     var playAgainButton = document.getElementById('play-again');
     var homeButton = document.querySelector('.home-btn');
+    var showAnswerButton = document.getElementById('show-answer');
 
     var speakingQuestions = [
         { audioPath: '1.mp3', answer: '생선 두 마리 주세요', asked: false },
@@ -102,6 +103,19 @@ document.addEventListener('DOMContentLoaded', function() {
         location.reload(); // Reload lại trang web để reset
     });
 
+    showAnswerButton.addEventListener('click', function() {
+        var currentQuestion;
+        if (answerDiv.innerText.includes('.mp3')) {
+            currentQuestion = speakingQuestions.find(q => q.audioPath === answerDiv.innerText.split(':')[1].trim());
+        } else {
+            currentQuestion = writingQuestions.find(q => q.question === answerDiv.innerText.split(':')[1].trim());
+        }
+
+        if (currentQuestion) {
+            alert('Đáp án: ' + currentQuestion.answer);
+        }
+    });
+
     function askQuestion(questions) {
         var availableQuestions = questions.filter(q => !q.asked);
 
@@ -110,6 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
             userInput.style.display = 'none';
             submitButton.style.display = 'none';
             playAgainButton.style.display = 'none';
+            showAnswerButton.style.display = 'none';
             return;
         }
 
@@ -128,6 +143,7 @@ document.addEventListener('DOMContentLoaded', function() {
         userInput.style.display = 'block';
         submitButton.style.display = 'block';
         playAgainButton.style.display = 'block';
+        showAnswerButton.style.display = 'block';
 
         question.asked = true;
     }
