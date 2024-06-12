@@ -5,6 +5,7 @@ body {
     background-image: url('https://th.bing.com/th/id/OIP.I2gkwQej8DkN4WAmZp-1WQHaEK?w=389&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7'); /* Đường dẫn đến file hình ảnh nền */
     background-size: cover; /* Đảm bảo hình ảnh nền đầy đủ chiều cao và chiều rộng của trình duyệt */
     background-position: center; /* Canh chỉnh hình ảnh nền ở giữa trang */
+   
 }
 
 .container {
@@ -20,13 +21,15 @@ header {
 
 .home-btn img {
     width: 30px;
+    
+    
 }
-
 .home-btn {
     position: fixed;
     top: 10px;
     left: 10px;
 }
+
 
 main {
     text-align: center;
@@ -63,3 +66,4 @@ h1 {
     cursor: pointer;
     margin-bottom: 10px;
 }
+
