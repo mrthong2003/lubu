@@ -147,6 +147,21 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     submitButton.addEventListener('click', function() {
+        checkAnswer();
+    });
+
+    userInput.addEventListener('keydown', function(event) {
+        if (event.key === 'Enter') {
+            checkAnswer();
+        }
+    });
+
+    playAgainButton.addEventListener('click', function() {
+        audioPlayer.currentTime = 0;
+        audioPlayer.play();
+    });
+
+    function checkAnswer() {
         var userAnswer = userInput.value;
         var currentQuestion;
 
@@ -169,10 +184,5 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
             alert('Sai! Vui lòng nhập lại.');
         }
-    });
-
-    playAgainButton.addEventListener('click', function() {
-        audioPlayer.currentTime = 0;
-        audioPlayer.play();
-    });
+    }
 });
