@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { audioPath: '29.mp3', answer: '그럼 같이 가요', asked: false },
         { audioPath: '30.mp3', answer: '공책을 사고 싶어요', asked: false },
         { audioPath: '31.mp3', answer: '이 공책은 어때요', asked: false },
-        { audioPath: '32.mp3', answer: '좋아요. 필봉은 어디에 있어요', asked: false },
+        { audioPath: '32.mp3', answer: '좋아요. 필통은 어디에 있어요', asked: false },
         { audioPath: '33.mp3', answer: '저기 있습니다', asked: false },
         { audioPath: '34.mp3', answer: '저 필통이 예뻐요', asked: false },
         { audioPath: '35.mp3', answer: '공책 세 권하고 필통 한 개 주세요', asked: false },
