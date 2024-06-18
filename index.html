@@ -17,16 +17,20 @@
                 <button class="check-speak-btn">Kiểm tra nghe</button>
                 <button class="check-write-btn">Kiểm tra viết</button>
             </div>
-            <div id="answer" style="display: none;"></div>
-            <input type="text" id="user-answer" placeholder="Nhập đáp án..." style="display: none;">
-            <button id="submit-answer" style="display: none;">Kiểm tra đáp án</button>
-            <button id="play-again" style="display: none;">Nghe lại</button>
-            <button id="show-answer" style="display: none;">Hiển thị đáp án</button>
+            <div id="chapter-selection" style="display:none;">
+                <label for="chapter">Chọn Chương:</label>
+                <div id="chapter-buttons"></div>
+            </div>
+            <div id="question-container" style="display:none;">
+                <audio id="audio-player"></audio>
+                <div id="answer"></div>
+                <input type="text" id="user-answer" placeholder="Nhập đáp án..." style="display: none;">
+                <button id="submit-answer" style="display: none;">Kiểm tra đáp án</button>
+                <button id="play-again" style="display: none;">Nghe lại</button>
+                <button id="show-answer" style="display: none;">Hiển thị đáp án</button>
+            </div>
         </main>
     </div>
-   
-
-    <audio id="audio-player" style="display: none;"></audio>
 
     <script src="script.js"></script>
 </body>
