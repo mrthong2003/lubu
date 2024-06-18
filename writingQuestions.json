@@ -1,0 +1,16 @@
+[
+    {
+        "chapter": 1,
+        "questions": [
+            { "question": "danh từ đơn vị", "answer": "단위 명사" },
+            { "question": "cái", "answer": "    " }
+        ]
+    },
+    {
+        "chapter": 2,
+        "questions": [
+            { "question": "người", "answer": "명 / 사람" },
+            { "question": "con", "answer": "마리" }
+        ]
+    }
+]
