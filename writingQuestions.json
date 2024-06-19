@@ -12,5 +12,138 @@
             { "question": "người", "answer": "명 / 사람" },
             { "question": "con", "answer": "마리" }
         ]
+    },
+    {
+        "chapter": 3,
+        "questions": [
+            { "question": "danh từ đơn vị", "answer": "단위 명사" },
+            { "question": "cái", "answer": "    " }
+        ]
+    },
+    {
+        "chapter": 4,
+        "questions": [
+            { "question": "người", "answer": "명 / 사람" },
+            { "question": "con", "answer": "마리" }
+        ]
+    },
+    {
+        "chapter": 5,
+        "questions": [
+            { "question": "danh từ đơn vị", "answer": "단위 명사" },
+            { "question": "cái", "answer": "    " }
+        ]
+    },
+    {
+        "chapter": 6,
+        "questions": [
+            { "question": "người", "answer": "명 / 사람" },
+            { "question": "con", "answer": "마리" }
+        ]
+    },
+    {
+        "chapter": 7,
+        "questions": [
+            
+                { "question": "danh từ đơn vị", "answer": "단위 명사", "asked": false },
+                { "question": "cái", "answer": "개", "asked": false },
+                { "question": "người", "answer": "명 / 사람", "asked": false },
+                { "question": "con", "answer": "마리", "asked": false },
+                { "question": "ly,chén", "answer": "잔", "asked": false },
+                { "question": "chiếc", "answer": "대", "asked": false },
+                { "question": "bình", "answer": "병", "asked": false },
+                { "question": "đôi", "answer": "켤레", "asked": false },
+                { "question": "quyển", "answer": "권", "asked": false },
+                { "question": "trang", "answer": "장", "asked": false },
+                { "question": "mua sắm", "answer": "물건 사기", "asked": false },
+                { "question": "hoa quả", "answer": "과일", "asked": false },
+                { "question": "rau", "answer": "채소", "asked": false },
+                { "question": "thức uống", "answer": "음료수", "asked": false },
+                { "question": "quần áo", "answer": "옷", "asked": false },
+                { "question": "quần", "answer": "바지", "asked": false },
+                { "question": "váy", "answer": "치마", "asked": false },
+                { "question": "giày", "answer": "구두", "asked": false },
+                { "question": "mũ", "answer": "모자", "asked": false },
+                { "question": "khách", "answer": "손님", "asked": false },
+                { "question": "chủ cửa hàng", "answer": "주인", "asked": false },
+                { "question": "tiền tệ", "answer": "화폐", "asked": false },
+                { "question": "bánh quy", "answer": "과자", "asked": false },
+                { "question": "quả quýt", "answer": "귤", "asked": false },
+                { "question": "thiết kế", "answer": "디자인", "asked": false },
+                { "question": "siêu thị nhỏ", "answer": "마트", "asked": false },
+                { "question": "xoài", "answer": "망고", "asked": false },
+                { "question": "cửa hàng văn phòng phẩm", "answer": "문구점", "asked": false },
+                { "question": "cá", "answer": "생선", "asked": false },
+                { "question": "hiệu sách", "answer": "서점", "asked": false },
+                { "question": "hạ giá", "answer": "세일", "asked": false },
+                { "question": "sách tiểu thuyết", "answer": "소설책", "asked": false },
+                { "question": "dưa hấu", "answer": "수박", "asked": false },
+                { "question": "khu bán hàng điện tử", "answer": "전자상가", "asked": false },
+                { "question": "sinh tố", "answer": "주스", "asked": false },
+                { "question": "máy ảnh", "answer": "카메라", "asked": false },
+                { "question": "áo sơ mi", "answer": "티셔츠", "asked": false },
+                { "question": "hộp bút", "answer": "필통", "asked": false },
+                { "question": "rẻ", "answer": "싸다", "asked": false },
+                { "question": "đắt", "answer": "비싸다", "asked": false }
+            
+            
+            
+        ]
+    },
+    {
+        "chapter": 8,
+        "questions": [
+            { "question": "người", "answer": "명 / 사람" },
+            { "question": "con", "answer": "마리" }
+        ]
+    },
+    {
+        "chapter": 9,
+        "questions": [
+            { "question": "danh từ đơn vị", "answer": "단위 명사" },
+            { "question": "cái", "answer": "    " }
+        ]
+    },
+    {
+        "chapter": 10,
+        "questions": [
+            { "question": "người", "answer": "명 / 사람" },
+            { "question": "con", "answer": "마리" }
+        ]
+    },
+    {
+        "chapter": 11,
+        "questions": [
+            { "question": "danh từ đơn vị", "answer": "단위 명사" },
+            { "question": "cái", "answer": "    " }
+        ]
+    },
+    {
+        "chapter": 12,
+        "questions": [
+            { "question": "người", "answer": "명 / 사람" },
+            { "question": "con", "answer": "마리" }
+        ]
+    },
+    {
+        "chapter": 13,
+        "questions": [
+            { "question": "danh từ đơn vị", "answer": "단위 명사" },
+            { "question": "cái", "answer": "    " }
+        ]
+    },
+    {
+        "chapter": 14,
+        "questions": [
+            { "question": "người", "answer": "명 / 사람" },
+            { "question": "con", "answer": "마리" }
+        ]
+    },
+    {
+        "chapter": 15,
+        "questions": [
+            { "question": "người", "answer": "명 / 사람" },
+            { "question": "con", "answer": "마리" }
+        ]
     }
 ]

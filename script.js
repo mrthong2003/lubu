@@ -39,6 +39,26 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
+    function displayAdvancedChapters(questions) {
+        chapterButtons.innerHTML = '';
+        questions.forEach(chapter => {
+            var button = document.createElement('button');
+            button.innerText = chapter.chapter;
+            button.addEventListener('click', function() {
+                currentChapterQuestions = chapter.words.map(word => {
+                    return {
+                        audioPath: word.audioPath,
+                        answer: word.word
+                    };
+                });
+                chapterSelection.style.display = 'none';
+                questionContainer.style.display = 'block';
+                askQuestion(currentChapterQuestions);
+            });
+            chapterButtons.appendChild(button);
+        });
+    }
+
     document.querySelector('.check-speak-btn').addEventListener('click', function() {
         loadJSON('speakingQuestions.json', function(data) {
             displayChapters(data);
@@ -49,6 +69,13 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('.check-write-btn').addEventListener('click', function() {
         loadJSON('writingQuestions.json', function(data) {
             displayChapters(data);
+            chapterSelection.style.display = 'block';
+        });
+    });
+
+    document.querySelector('.check-speak-advanced-btn').addEventListener('click', function() {
+        loadJSON('speakingQuestions2.json', function(data) {
+            displayAdvancedChapters(data);
             chapterSelection.style.display = 'block';
         });
     });

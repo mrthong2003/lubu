@@ -1,0 +1,31 @@
+
+[
+    {
+        "chapter": "Chương 1",
+        "words": [
+            {
+                "word": "안녕하세요",
+                "audioPath": "3.mp3"
+            },
+            {
+                "word": "사과",
+                "audioPath": "4.mp3"
+            }
+           
+        ]
+    },
+    {
+        "chapter": "Chương 2",
+        "words": [
+            {
+                "word": "고양이",
+                "audioPath": "5.mp3"
+            },
+            {
+                "word": "학교",
+                "audioPath": "6.mp3"
+            }
+        ]   
+    }
+ 
+]
