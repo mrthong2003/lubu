@@ -37,9 +37,44 @@
     {
         "chapter": 6,
         "questions": [
-            { "audioPath": "3.mp3", "answer": "이 책 세 권주세요" },
-            { "audioPath": "4.mp3", "answer": "바지를 사고 싶어요" }
+            { "audioPath": "sound6/1.mp3", "answer": "리엔 씨는 사과하고 배를 좋아합니다", "asked": false },
+            { "audioPath": "sound6/2.mp3", "answer": "민준 씨는 딸기하고 포도를 좋아합니다", "asked": false },
+            { "audioPath": "sound6/3.mp3", "answer": "남 씨는 지난 주말에 친구하고 영화를 봤어요", "asked": false },
+            { "audioPath": "sound6/4.mp3", "answer": "풍 씨는 지난 주말에 공원에서 운동했어요", "asked": false },
+            { "audioPath": "sound6/5.mp3", "answer": "화 씨는 지난 주말에 가족하고 한국 식당에서 외 식했어요", "asked": false },
+            { "audioPath": "sound6/6.mp3", "answer": "민준 씨는 무슨 운동을 좋아해요", "asked": false },
+            { "audioPath": "sound6/7.mp3", "answer": "축구를 좋아해요", "asked": false },
+            { "audioPath": "sound6/8.mp3", "answer": "남 씨는 무슨 동물을 좋아해요", "asked": false },
+            { "audioPath": "sound6/9.mp3", "answer": "개하고 고양이를 좋아해요", "asked": false },
+            { "audioPath": "sound6/10.mp3", "answer": "유나 씨는 무슨 과일을 좋아해요", "asked": false },
+            { "audioPath": "sound6/11.mp3", "answer": "사과하고 딸기를 좋아해요", "asked": false },
+            { "audioPath": "sound6/12.mp3", "answer": "뚜안 씨는 무슨 영화를 좋아해요", "asked": false },
+            { "audioPath": "sound6/13.mp3", "answer": "저는 액션 영화하고 공포 영화를 좋아해요", "asked": false },
+            { "audioPath": "sound6/14.mp3", "answer": "내일 공포 영화 봅시다", "asked": false },
+            { "audioPath": "sound6/15.mp3", "answer": "내일 공포 영화 봅시다", "asked": false },
+            { "audioPath": "sound6/16.mp3", "answer": "그래요? 그럼, 액션 영화를 봅시다", "asked": false },
+            { "audioPath": "sound6/17.mp3", "answer": "유나 씨, 숙제했습니까", "asked": false },
+            { "audioPath": "sound6/18.mp3", "answer": "아니요, 아직 안 했습니다. 숙제가 어렵습니다", "asked": false },
+            { "audioPath": "sound6/19.mp3", "answer": "그래요? 그럼, 같이 숙제합시다", "asked": false },
+            { "audioPath": "sound6/20.mp3", "answer": "이번 주 토요일에 시간이 있어요", "asked": false },
+            { "audioPath": "sound6/21.mp3", "answer": "네, 있어요. 왜요", "asked": false },
+            { "audioPath": "sound6/22.mp3", "answer": "그럼, 백화점에서 쇼핑을 합시다", "asked": false },
+            { "audioPath": "sound6/23.mp3", "answer": "민준 씨, 어제 뭘 했어요", "asked": false },
+            { "audioPath": "sound6/24.mp3", "answer": "내일이 친구 생일이에요. 그래서 동생하고 백화점에서 선물을 샀어요", "asked": false },
+            { "audioPath": "sound6/25.mp3", "answer": "무슨 선물을 샀어요", "asked": false },
+            { "audioPath": "sound6/26.mp3", "answer": "수영 모자를 샀어요. 흐엉 씨, 수영을 좋아해요", "asked": false },
+            { "audioPath": "sound6/27.mp3", "answer": "네, 좋아해요", "asked": false },
+            { "audioPath": "sound6/28.mp3", "answer": "그럼 다음 주에 같이 수영장에 갑시다", "asked": false },
+            { "audioPath": "sound6/29.mp3", "answer": "안녕하세요? 어느 나라에서 왔어요", "asked": false },
+            { "audioPath": "sound6/30.mp3", "answer": "베트남에서 왔어요", "asked": false },
+            { "audioPath": "sound6/31.mp3", "answer": "한국 음식을 좋아해요", "asked": false },
+            { "audioPath": "sound6/32.mp3", "answer": "네, 좋아해요", "asked": false },
+            { "audioPath": "sound6/33.mp3", "answer": "무슨 음식을 좋아해요", "asked": false },
+            { "audioPath": "sound6/34.mp3", "answer": "불고기하고 비빔밥을 좋아해요", "asked": false },
+            { "audioPath": "sound6/35.mp3", "answer": "그럼, 점심에 불고기를 먹읍시다", "asked": false }
+           
         ]
+    
     },
     {
         "chapter": 7,
