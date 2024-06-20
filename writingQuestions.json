@@ -2,9 +2,30 @@
     {
         "chapter": 1,
         "questions": [
-            { "question": "danh từ đơn vị", "answer": "단위 명사" },
-            { "question": "cái", "answer": "    " }
+            { "question": "Hàn Quốc", "answer": "한국", "asked": false },
+            { "question": "Việt Nam", "answer": "베트남", "asked": false },
+            { "question": "Malaysia", "answer": "말레이시아", "asked": false },
+            { "question": "Nhật", "answer": "일본", "asked": false },
+            { "question": "Mỹ", "answer": "미국", "asked": false },
+            { "question": "Trung Quốc", "answer": "중국", "asked": false },
+            { "question": "học sinh", "answer": "학생", "asked": false },
+            { "question": "nhân viên công ty", "answer": "회사원", "asked": false },
+            { "question": "nhân viên ngân hàng", "answer": "은행원", "asked": false },
+            { "question": "giáo viên", "answer": "교사", "asked": false },
+            { "question": "bác sĩ", "answer": "의사", "asked": false },
+            { "question": "công chức", "answer": "공무원", "asked": false },
+            { "question": "hướng dẫn viên du lịch", "answer": "관광가이드", "asked": false },
+            { "question": "nội trợ", "answer": "주부", "asked": false },
+            { "question": "dược sĩ", "answer": "약사", "asked": false },
+            { "question": "lái xe", "answer": "운전기사", "asked": false },
+            { "question": "xin chào", "answer": "안녕하세요", "asked": false },
+            { "question": "chào", "answer": "안녕하십니까", "asked": false },
+            { "question": "Đi về bình an", "answer": "안녕히 가세요", "asked": false },
+            { "question": "Ở lại bình an", "answer": "안녕히 계세요", "asked": false },
+            { "question": "lần đầu gặp mặt", "answer": "처음 뵙겠습니다", "asked": false },
+            { "question": "Rất vui được gặp", "answer": "반갑습니다", "asked": false }
         ]
+        
     },
     {
         "chapter": 2,
