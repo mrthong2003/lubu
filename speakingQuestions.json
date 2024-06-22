@@ -51,7 +51,7 @@
             { "audioPath": "sound6/12.mp3", "answer": "뚜안 씨는 무슨 영화를 좋아해요", "asked": false },
             { "audioPath": "sound6/13.mp3", "answer": "저는 액션 영화하고 공포 영화를 좋아해요", "asked": false },
             { "audioPath": "sound6/14.mp3", "answer": "내일 공포 영화 봅시다", "asked": false },
-            { "audioPath": "sound6/15.mp3", "answer": "내일 공포 영화 봅시다", "asked": false },
+            { "audioPath": "sound6/15.mp3", "answer": "미안해요. 저는 공포 영화를 싫어해요. 액션영화를 좋아해요", "asked": false },
             { "audioPath": "sound6/16.mp3", "answer": "그래요? 그럼, 액션 영화를 봅시다", "asked": false },
             { "audioPath": "sound6/17.mp3", "answer": "유나 씨, 숙제했습니까", "asked": false },
             { "audioPath": "sound6/18.mp3", "answer": "아니요, 아직 안 했습니다. 숙제가 어렵습니다", "asked": false },
