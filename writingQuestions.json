@@ -137,7 +137,6 @@
     {
         "chapter": 4,
         "questions": [
-            { "question": "số từ Hán Hàn", "answer": "한자어 수사", "asked": false },
             { "question": "số điện thoại", "answer": "전화번호", "asked": false },
             { "question": "số tầng nhà", "answer": "층", "asked": false },
             { "question": "số nhà, phòng", "answer": "호", "asked": false },
