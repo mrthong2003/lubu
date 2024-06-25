@@ -187,7 +187,7 @@
             { "question": "năm trước, năm ngoái", "answer": "지난해", "asked": false },
             { "question": "năm nay", "answer": "올해", "asked": false },
             { "question": "năm sau", "answer": "다음 해", "asked": false },
-            { "question": "tháng trước", "answer": "지난달", "asked": false },
+            { "question": "tháng trước", "answer": "지난 달", "asked": false },
             { "question": "tháng này", "answer": "이번 달", "asked": false },
             { "question": "tháng sau", "answer": "다음 달", "asked": false },
             { "question": "tuần trước", "answer": "지난주", "asked": false },
